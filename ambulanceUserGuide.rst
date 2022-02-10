@@ -139,12 +139,94 @@ To use this application, you will need to **SIGN IN** using your registered phon
 
 .. image:: ./images/image1.png
     :width: 300px
-    :align: left
+    :align: center
     :height: 500px
     :alt: alternate text
 
 .. image:: ./images/image3.png
     :width: 300px
-    :align: right
+    :align: center
+    :height: 500px
+    :alt: alternate text
+
+2.2 Change password
+############################################################
+This will allow you to change your password.
+
+- Click **ACCOUNT** on the bottom menu bar as seen in the image below
+
+.. image:: ./images/image2.png
+    :width: 300px
+    :align: center
+    :height: 500px
+    :alt: alternate text
+
+- Click **PASSWORD**
+- Enter your current password and new password in the pop up below. Re enter your new 
+  password for confirmation. 
+
+.. image:: ./images/image4.png
+    :width: 300px
+    :align: center
+    :height: 500px
+    :alt: alternate text
+
+- Then click SAVE PASSWORD to save your new password.
+
+2.3 Logout 
+############################################################
+This will allow you to logout of the application.
+
+- Click **ACCOUNT** on the  bottom menu bar as seen in the image below
+
+.. image:: ./images/image2.png
+    :width: 300px
+    :align: center
+    :height: 500px
+    :alt: alternate text
+
+- Click **LOGOUT**
+- A message will be appear asking if you are sure you want to logout of the application.
+
+.. image:: ./images/image6.png
+    :width: 300px
+    :align: center
+    :height: 500px
+    :alt: alternate text
+
+- Click **YES** to logout 
+
+
+3. EXPLORE SYSTEM FEATURES
+*****************************************
+3.1 Bottom Menu
+############################################################
+| Home 
+
+When you sign in, this home page is displayed. This page has a map showing your current location. 
+
+.. image:: ./images/image5.png
+    :width: 300px
+    :align: center
+    :height: 500px
+    :alt: alternate text
+
+| History
+
+This history tab shows you the ongoing and completed emergency requests handled by you.
+
+.. image:: ./images/image7.png
+    :width: 300px
+    :align: center
+    :height: 500px
+    :alt: alternate text
+
+| Account
+
+This account tab allows you to view your personal details, change your password, log out and information about the MaNe project. 
+
+.. image:: ./images/image2.png
+    :width: 300px
+    :align: center
     :height: 500px
     :alt: alternate text
