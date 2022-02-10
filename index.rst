@@ -2,6 +2,8 @@
 KEDTS system documentation
 ======================================================
 
+User Guides
+------------
 
 :Guide 1: 
     `Ambulance-Application-User-Guide`_.
