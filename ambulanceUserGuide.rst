@@ -137,4 +137,14 @@ To use this application, you will need to **SIGN IN** using your registered phon
   red.
 - Click **SIGN IN**
 
+.. image:: ./images/image1.png
+    :width: 200px
+    :align: left
+    :height: 100px
+    :alt: alternate text
 
+. image:: ./images/image2.png
+    :width: 200px
+    :align: right
+    :height: 100px
+    :alt: alternate text
