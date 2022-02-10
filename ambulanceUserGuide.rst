@@ -138,13 +138,13 @@ To use this application, you will need to **SIGN IN** using your registered phon
 - Click **SIGN IN**
 
 .. image:: ./images/image1.png
-    :width: 200px
+    :width: 1000px
     :align: left
     :height: 100px
     :alt: alternate text
 
 . image:: ./images/image2.png
-    :width: 200px
+    :width: 1000px
     :align: right
     :height: 100px
     :alt: alternate text
