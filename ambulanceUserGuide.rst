@@ -143,7 +143,7 @@ To use this application, you will need to **SIGN IN** using your registered phon
     :height: 1000px
     :alt: alternate text
 
-. image:: ./images/image3.png
+.. image:: ./images/image3.png
     :width: 300px
     :align: right
     :height: 1000px
