@@ -230,3 +230,98 @@ This account tab allows you to view your personal details, change your password,
     :align: center
     :height: 500px
     :alt: alternate text
+
+4. GUIDING STEPS TO USE THIS APPLICATION 
+*****************************************
+4.1 Accept an incoming Emergency dispatch
+############################################################
+#. You will receive an incoming emergency dispatch notification from the call centre 
+   which will display as shown below. You will hear a sound ring when an incoming 
+   emergency dispatch is sent to you.
+#. Click **ACCEPT** to continue and handle this emergency   
+
+.. image:: ./images/image10.png
+    :width: 300px
+    :align: center
+    :height: 500px
+    :alt: alternate text
+
+4.2 Decline an incoming Emergency 
+############################################################
+#. You have received an incoming emergency dispatch notification from the call centre 
+   which will display as shown in 4.1
+#. Click the **DECLINE**, you will be prompted to give reasons for declining this 
+   dispatch. 
+  
+
+.. image:: ./images/image8.png
+    :width: 300px
+    :align: center
+    :height: 500px
+    :alt: alternate text
+
+4.3 Go to pick up Location
+############################################################
+#. As you kick off to drive to the patient location
+
+#. slide the **GO TO PICK UP LOCATION** button to be able to view directions to the pick 
+   up 
+   location
+
+.. image:: ./images/image9.png
+    :width: 300px
+    :align: center
+    :height: 500px
+    :alt: alternate text
+
+
+4.4 Confirm at Scene  
+############################################################
+#. When you arrive at the pick up location of the patient
+
+#. Slide the **CONFIRM AT SCENE** button to indicate that you have arrived. 
+
+
+.. image:: ./images/image11.png
+    :width: 300px
+    :align: center
+    :height: 500px
+    :alt: alternate text
+
+4.5 Pick up Patient
+############################################################
+#. After you have loaded the patient in the ambulance and you are proceeding to set off 
+#. Slide the **PICK UP PATIENT** button. The map will display directions to the drop off 
+   location of the patient. 
+
+
+
+.. image:: ./images/image12.png
+    :width: 300px
+    :align: center
+    :height: 500px
+    :alt: alternate text
+
+4.6 Drop off patient
+############################################################
+#. When you have arrived at the receiving facility 
+#. Slide the **DROP OFF PATIENT** button to indicate that you have arrived at the 
+   receiving facility.
+
+
+.. image:: ./images/image13.png
+    :width: 300px
+    :align: center
+    :height: 500px
+    :alt: alternate text
+
+4.7 Fill hand over Report
+############################################################
+#. When you have arrived at the facility, you will be required to submit a hand over 
+   report as shown below 
+
+.. image:: ./images/image14.png
+    :width: 300px
+    :align: center
+    :height: 500px
+    :alt: alternate text
