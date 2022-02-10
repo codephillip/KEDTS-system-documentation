@@ -140,11 +140,11 @@ To use this application, you will need to **SIGN IN** using your registered phon
 .. image:: ./images/image1.png
     :width: 300px
     :align: left
-    :height: 700px
+    :height: 500px
     :alt: alternate text
 
 .. image:: ./images/image3.png
     :width: 300px
     :align: right
-    :height: 700px
+    :height: 500px
     :alt: alternate text
