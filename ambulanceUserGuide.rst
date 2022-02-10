@@ -320,7 +320,7 @@ This account tab allows you to view your personal details, change your password,
 #. When you have arrived at the facility, you will be required to submit a hand over 
    report as shown below 
 
-.. image:: ./images/image14.png
+.. image:: ./images/image14.jpg
     :width: 300px
     :align: center
     :height: 500px
