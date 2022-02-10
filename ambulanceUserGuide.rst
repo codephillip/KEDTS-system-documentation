@@ -137,13 +137,13 @@ To use this application, you will need to **SIGN IN** using your registered phon
   red.
 - Click **SIGN IN**
 
-.. image:: ./images/image1.png
+.. image:: ./assets/ambulanceUserGuideImages/image1.png
     :width: 300px
     :align: center
     :height: 500px
     :alt: alternate text
 
-.. image:: ./images/image3.png
+.. image:: ./assets/ambulanceUserGuideImages/image3.png
     :width: 300px
     :align: center
     :height: 500px
@@ -155,7 +155,7 @@ This will allow you to change your password.
 
 - Click **ACCOUNT** on the bottom menu bar as seen in the image below
 
-.. image:: ./images/image2.png
+.. image:: ./assets/ambulanceUserGuideImages/image2.png
     :width: 300px
     :align: center
     :height: 500px
@@ -165,7 +165,7 @@ This will allow you to change your password.
 - Enter your current password and new password in the pop up below. Re enter your new 
   password for confirmation. 
 
-.. image:: ./images/image4.png
+.. image:: ./assets/ambulanceUserGuideImages/image4.png
     :width: 300px
     :align: center
     :height: 500px
@@ -179,7 +179,7 @@ This will allow you to logout of the application.
 
 - Click **ACCOUNT** on the  bottom menu bar as seen in the image below
 
-.. image:: ./images/image2.png
+.. image:: ./assets/ambulanceUserGuideImages/image2.png
     :width: 300px
     :align: center
     :height: 500px
@@ -188,7 +188,7 @@ This will allow you to logout of the application.
 - Click **LOGOUT**
 - A message will be appear asking if you are sure you want to logout of the application.
 
-.. image:: ./images/image6.png
+.. image:: ./assets/ambulanceUserGuideImages/image6.png
     :width: 300px
     :align: center
     :height: 500px
@@ -205,7 +205,7 @@ This will allow you to logout of the application.
 
 When you sign in, this home page is displayed. This page has a map showing your current location. 
 
-.. image:: ./images/image5.png
+.. image:: ./assets/ambulanceUserGuideImages/image5.png
     :width: 300px
     :align: center
     :height: 500px
@@ -215,7 +215,7 @@ When you sign in, this home page is displayed. This page has a map showing your 
 
 This history tab shows you the ongoing and completed emergency requests handled by you.
 
-.. image:: ./images/image7.png
+.. image:: ./assets/ambulanceUserGuideImages/image7.png
     :width: 300px
     :align: center
     :height: 500px
@@ -225,7 +225,7 @@ This history tab shows you the ongoing and completed emergency requests handled 
 
 This account tab allows you to view your personal details, change your password, log out and information about the MaNe project. 
 
-.. image:: ./images/image2.png
+.. image:: ./assets/ambulanceUserGuideImages/image2.png
     :width: 300px
     :align: center
     :height: 500px
@@ -240,7 +240,7 @@ This account tab allows you to view your personal details, change your password,
    emergency dispatch is sent to you.
 #. Click **ACCEPT** to continue and handle this emergency   
 
-.. image:: ./images/image10.png
+.. image:: ./assets/ambulanceUserGuideImages/image10.png
     :width: 300px
     :align: center
     :height: 500px
@@ -254,7 +254,7 @@ This account tab allows you to view your personal details, change your password,
    dispatch. 
   
 
-.. image:: ./images/image8.png
+.. image:: ./assets/ambulanceUserGuideImages/image8.png
     :width: 300px
     :align: center
     :height: 500px
@@ -268,7 +268,7 @@ This account tab allows you to view your personal details, change your password,
    up 
    location
 
-.. image:: ./images/image9.png
+.. image:: ./assets/ambulanceUserGuideImages/image9.png
     :width: 300px
     :align: center
     :height: 500px
@@ -282,7 +282,7 @@ This account tab allows you to view your personal details, change your password,
 #. Slide the **CONFIRM AT SCENE** button to indicate that you have arrived. 
 
 
-.. image:: ./images/image11.png
+.. image:: ./assets/ambulanceUserGuideImages/image11.png
     :width: 300px
     :align: center
     :height: 500px
@@ -296,7 +296,7 @@ This account tab allows you to view your personal details, change your password,
 
 
 
-.. image:: ./images/image12.png
+.. image:: ./assets/ambulanceUserGuideImages/image12.png
     :width: 300px
     :align: center
     :height: 500px
@@ -309,7 +309,7 @@ This account tab allows you to view your personal details, change your password,
    receiving facility.
 
 
-.. image:: ./images/image13.png
+.. image:: ./assets/ambulanceUserGuideImages/image13.png
     :width: 300px
     :align: center
     :height: 500px
@@ -320,7 +320,7 @@ This account tab allows you to view your personal details, change your password,
 #. When you have arrived at the facility, you will be required to submit a hand over 
    report as shown below 
 
-.. image:: ./images/image14.jpg
+.. image:: ./assets/ambulanceUserGuideImages/image14.jpg
     :width: 300px
     :align: center
     :height: 500px
