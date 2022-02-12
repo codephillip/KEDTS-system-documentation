@@ -147,9 +147,9 @@ This is a person using the system for the first time. This person may be a Call 
    B. **Password**: This is where you input your password.
 
 .. image:: ./assets/callCenterUserGuideImages/image4.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 #. Once you have filled in these fields then the grey sign in button should turn to red. 
@@ -164,9 +164,9 @@ This is a person using the system for the first time. This person may be a Call 
 This provides a summary of the emergency information and ambulance information in the system. The Map view shows a map with active ambulances by default, while the dashboard tab has a breakdown of common key performance indicators  tracked in the system for quick decision making.
 
 .. image:: ./assets/callCenterUserGuideImages/image31.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 
@@ -175,9 +175,9 @@ This provides a summary of the emergency information and ambulance information i
 This is the default view that is displayed when you login successfully. The map view allows you to view ambulances within the Kampala Metropolitan area on a map.
 
 .. image:: ./assets/callCenterUserGuideImages/image31.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 When you click the ambulance icon you are able to see the ambulance’s corresponding details that include:
@@ -192,15 +192,15 @@ When you click the ambulance icon you are able to see the ambulance’s correspo
 ++++++++++++++++++
 
 .. image:: ./assets/callCenterUserGuideImages/image33.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 .. image:: ./assets/callCenterUserGuideImages/image32.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 The Dashboard has 3 subsections that include Emergencies, Ambulances and Facilities.
@@ -215,9 +215,9 @@ The Dashboard has 3 subsections that include Emergencies, Ambulances and Facilit
        been logged at the call centre.
 
        .. image:: ./assets/callCenterUserGuideImages/image36.png
-           :width: 300px
+           
            :align: center
-           :height: 500px
+           
            :alt: alternate text
 
     B. **High Priority**: This shows the percentage and corresponding number of 
@@ -225,9 +225,9 @@ The Dashboard has 3 subsections that include Emergencies, Ambulances and Facilit
        These cases are color-coded red. 
 
        .. image:: ./assets/callCenterUserGuideImages/image35.png
-           :width: 300px
+           
            :align: center
-           :height: 500px
+           
            :alt: alternate text
 
     C. **Medium Priority**: This shows the percentage and corresponding number of 
@@ -235,9 +235,9 @@ The Dashboard has 3 subsections that include Emergencies, Ambulances and Facilit
        immediate ambulance response. These cases are color-coded yellow. 
 
        .. image:: ./assets/callCenterUserGuideImages/image38.png
-           :width: 300px
+           
            :align: center
-           :height: 500px
+           
            :alt: alternate text
 
     D. **Low priority**: This shows the percentage and corresponding number of emergency 
@@ -245,9 +245,9 @@ The Dashboard has 3 subsections that include Emergencies, Ambulances and Facilit
        be necessary. These cases are color-coded green.
 
        .. image:: ./assets/callCenterUserGuideImages/image37.png
-           :width: 300px
+           
            :align: center
-           :height: 500px
+           
            :alt: alternate text
 
     E. **Unprocessed**:  This shows the percentage and corresponding number of calls 
@@ -255,18 +255,18 @@ The Dashboard has 3 subsections that include Emergencies, Ambulances and Facilit
        call centre agent.
 
        .. image:: ./assets/callCenterUserGuideImages/image41.png
-           :width: 300px
+           
            :align: center
-           :height: 500px
+           
            :alt: alternate text
 
     F. **Informal Sector**:  This shows the percentage and corresponding number of calls 
        that were logged  at the call centre and originated from the informal sector.
 
        .. image:: ./assets/callCenterUserGuideImages/image39.png
-           :width: 300px
+           
            :align: center
-           :height: 500px
+           
            :alt: alternate text
 
 The graphs include the following:
@@ -289,9 +289,9 @@ The graphs include the following:
                  drop off at the receiving health facility.
 
                  .. image:: ./assets/callCenterUserGuideImages/image40.png
-                     :width: 300px
+                     
                      :align: center
-                     :height: 500px
+                     
                      :alt: alternate text
 
      b) **Emergency Origin**:  This pie chart shows the number of calls categorized 
@@ -308,9 +308,9 @@ The graphs include the following:
                  These are represented by the **Green** Color.
 
                  .. image:: ./assets/callCenterUserGuideImages/image42.png
-                     :width: 300px
+                     
                      :align: center
-                     :height: 500px
+                     
                      :alt: alternate text
 
 #. **Bar Graphs**
@@ -320,9 +320,9 @@ The graphs include the following:
         originated.
 
          .. image:: ./assets/callCenterUserGuideImages/image43.png
-             :width: 300px
+             
              :align: center
-             :height: 500px
+             
              :alt: alternate text
 
      b) **Requests from formal and informal settlements within Kampala** : This bar 
@@ -331,9 +331,9 @@ The graphs include the following:
 
 
          .. image:: ./assets/callCenterUserGuideImages/image44.png
-             :width: 300px
+             
              :align: center
-             :height: 500px
+             
              :alt: alternate text
 
  II. **Ambulances**
@@ -351,9 +351,9 @@ The graphs include the following:
 The emergencies tab lets you view information about the emergency response requests and the corresponding information such as the patient details, the referring facility, the receiving facility and provides ability to track the progress of the referral path.
 
 .. image:: ./assets/callCenterUserGuideImages/image45.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 2.2.3 Ambulances
@@ -362,9 +362,9 @@ The emergencies tab lets you view information about the emergency response reque
 This tab lets you view the ambulances that are in the system and their corresponding ambulance details such as registration number, type of the ambulance, operational status, availability status, the ownership of the ambulance, the types of ownership and the attached drivers of the ambulances. To view any further information, click **View**.
 
 .. image:: ./assets/callCenterUserGuideImages/image46.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 2.2.3.1 Ambulance Filters
@@ -394,9 +394,9 @@ The filters help you sort out the ambulances according to what you need based on
           C. To remove any filters select no filters.
 
 .. image:: ./assets/callCenterUserGuideImages/image47.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 2.2.4 Facilities
@@ -404,9 +404,9 @@ The filters help you sort out the ambulances according to what you need based on
 This tab lets you view a list of facilities that are under the system and their respective information such as facility name, facility health care level, the contact of the facility, the physical address, the name of the facility incharge and  operating hours To view further information, click on **View**
 
 .. image:: ./assets/callCenterUserGuideImages/image48.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 2.2.4.1  Health Facility Filters
@@ -419,9 +419,9 @@ The filters let you select the levels  of health care and type of ownership of t
 - To go back click cancel.
 
 .. image:: ./assets/callCenterUserGuideImages/image49.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 2.2.5 Staff
@@ -429,9 +429,9 @@ The filters let you select the levels  of health care and type of ownership of t
 This tab lets you view the staff at the call centre with their corresponding information that includes, name, phone contact number and their designation level.
 
 .. image:: ./assets/callCenterUserGuideImages/image21.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 2.2.6 Patients
@@ -439,9 +439,9 @@ This tab lets you view the staff at the call centre with their corresponding inf
 This tab lets you view the patients that have been managed through the system at the call centre and the respective patient details such as the patient names, the date of first visit, the patient gender, age, contact and the facility where the patient is registered. To view further information, click **View**.
 
 .. image:: ./assets/callCenterUserGuideImages/image22.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 2.2.7 EMT’s
@@ -450,9 +450,9 @@ This tab lets you view the Emergency Technicians(EMT) that are registered under 
 
 
 .. image:: ./assets/callCenterUserGuideImages/image23.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 2.2.8 Drivers
@@ -461,9 +461,9 @@ This tab has the drivers of the ambulances and their respective information such
 
 
 .. image:: ./assets/callCenterUserGuideImages/image24.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 2.2.9 Users
@@ -472,9 +472,9 @@ This tab has all the users of the system and user information such as the name o
 
 
 .. image:: ./assets/callCenterUserGuideImages/image25.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 2.2.10 Settings
@@ -483,9 +483,9 @@ This is a section of the system that enables the system administrator to make ch
 
 
 .. image:: ./assets/callCenterUserGuideImages/image26.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 2.2.11 Reports
@@ -495,17 +495,17 @@ This tab shows a tabular summary of the system progress and performance of the s
 | **2.2.11.a**
 
 .. image:: ./assets/callCenterUserGuideImages/image27.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 | **2.2.11.b**
 
 .. image:: ./assets/callCenterUserGuideImages/image28.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 3. GUIDING STEPS TO USE SYSTEM (HOW TO’S)
@@ -519,9 +519,9 @@ This tab shows a tabular summary of the system progress and performance of the s
       Call
 
       .. image:: ./assets/callCenterUserGuideImages/image29.png
-          :width: 300px
+          
           :align: center
-          :height: 500px
+          
           :alt: alternate text
 
 
@@ -547,9 +547,9 @@ This tab shows a tabular summary of the system progress and performance of the s
 Note: Processing an emergency involves verifying the information you have received and categorizing the call into Priority Case levels according to the diagnosis provided. See section 2.2.1.2 Above
 
 .. image:: ./assets/callCenterUserGuideImages/image30.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 
@@ -568,9 +568,9 @@ Note: Processing an emergency involves verifying the information you have receiv
 
 
         .. image:: ./assets/callCenterUserGuideImages/image11.png
-             :width: 300px
+             
              :align: center
-             :height: 500px
+             
              :alt: alternate text
 
    IV. Once you have selected the facility, Click **Refer**. The emergency will now be 
@@ -593,9 +593,9 @@ Note: Processing an emergency involves verifying the information you have receiv
    IV. Click **Assign** once you have identified an ambulance to transport the patient.
 
 .. image:: ./assets/callCenterUserGuideImages/image12.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 
@@ -609,9 +609,9 @@ Note: Processing an emergency involves verifying the information you have receiv
        should be able to view a map showing the location of the ambulance.
 
 .. image:: ./assets/callCenterUserGuideImages/image13.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 3.2 Call Centre Supervisor
@@ -634,15 +634,15 @@ Note: Processing an emergency involves verifying the information you have receiv
        Click **Add User** to add the user.
 
 .. image:: ./assets/callCenterUserGuideImages/image14.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 .. image:: ./assets/callCenterUserGuideImages/image15.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 3.2.2 How To Create / Add a Facility
@@ -663,15 +663,15 @@ Note: Processing an emergency involves verifying the information you have receiv
 
 
 .. image:: ./assets/callCenterUserGuideImages/image16.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 .. image:: ./assets/callCenterUserGuideImages/image17.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 3.2.3 How  To Create / Add an Ambulance
@@ -692,15 +692,15 @@ Note: Processing an emergency involves verifying the information you have receiv
 
 
 .. image:: ./assets/callCenterUserGuideImages/image18.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 .. image:: ./assets/callCenterUserGuideImages/image19.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 3.2.4 How To Create / Add a Driver
@@ -721,15 +721,15 @@ Note: Processing an emergency involves verifying the information you have receiv
 
 
 .. image:: ./assets/callCenterUserGuideImages/image20.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 .. image:: ./assets/callCenterUserGuideImages/image1.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 3.2.5 How To Create / Add an EMT
@@ -750,15 +750,15 @@ Note: Processing an emergency involves verifying the information you have receiv
 
 
 .. image:: ./assets/callCenterUserGuideImages/image2.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 .. image:: ./assets/callCenterUserGuideImages/image3.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 3.2.6 How To Export a Report
@@ -788,9 +788,9 @@ In case you forget your password, Click Forgot Password?  on the login page. Thi
 | If you are still unable to change your password, contact your super administrator or supervisor.
 
 .. image:: ./assets/callCenterUserGuideImages/image4.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 4.1.2 I am unable to Sign In
@@ -816,9 +816,9 @@ In case you forget your password, Click Forgot Password?  on the login page. Thi
         browser.
         
         .. image:: ./assets/callCenterUserGuideImages/image5.png
-            :width: 300px
+            
             :align: center
-            :height: 500px
+            
             :alt: alternate text
 
        This is the refresh icon.
@@ -836,9 +836,9 @@ To activate the **Process Request** button, make sure that you have prioritized 
 Note: Refer to section 3.1.2
 
 .. image:: ./assets/callCenterUserGuideImages/image6.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 4.3 Issues with Assigning an Ambulance
@@ -847,9 +847,9 @@ Note: Refer to section 3.1.2
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. image:: ./assets/callCenterUserGuideImages/image7.png
-    :width: 300px
+    
     :align: center
-    :height: 500px
+    
     :alt: alternate text
 
 If you are not able to assign an ambulance to your case,
