@@ -21,6 +21,6 @@ User Guides
     .. _Health-Facilities-User-Guide: ./healthFacilitiesUserGuide.rst
 
 :Guide 4: 
-    `Ambulance-Services-App-User-Guide`_.
+    `App-User-Guide`_.
 
-    .. _Ambulance-Services-App-User-Guide: ./ambulanceServicesAppUserGuide.rst    
+    .. _App-User-Guide: ./appUserGuide.rst    
