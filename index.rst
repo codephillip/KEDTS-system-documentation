@@ -6,15 +6,13 @@ User Guides
 ------------
 
 :Guide 1: 
-
-:doc:`Ambulance-Application-User-Guide </ambulanceUserGuide>`
+:doc:`Ambulance Application User Guide </ambulanceUserGuide>`
 
 :Guide 2: 
-    `Call-Center-User-Guide`_.
-
-    .. _Call-Center-User-Guide: ./callCenterUserGuide.rst
+:doc:`Call Center User Guide </callCenterUserGuide>`
 
 :Guide 3: 
-    `Health-Facilities-User-Guide`_.
+:doc:`Health Facilities User Guide </healthFacilitiesUserGuide>`
 
-    .. _Health-Facilities-User-Guide: ./healthFacilitiesUserGuide.rst
+:Guide 4: 
+:doc:`Ambulance User App Guide </appUserGuide>`
