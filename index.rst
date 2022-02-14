@@ -5,7 +5,9 @@ KEDTS system documentation
 User Guides
 ------------
 
-:Guide 1: :doc:`Ambulance-Application-User-Guide </ambulanceUserGuide.rst>`
+:Guide 1: 
+
+:doc:`Ambulance-Application-User-Guide </ambulanceUserGuide>`
 
 :Guide 2: 
     `Call-Center-User-Guide`_.
