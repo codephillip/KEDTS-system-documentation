@@ -18,3 +18,8 @@ User Guides
     `Health-Facilities-User-Guide`_.
 
     .. _Health-Facilities-User-Guide: ./healthFacilitiesUserGuide.rst
+
+:Guide 4: 
+    `App-User-Guide`_.
+
+    .. _App-User-Guide: ./appUserGuide.rst    
