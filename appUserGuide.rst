@@ -133,11 +133,6 @@ This document contains the following typographic conventions which will assist y
 
 | Note   provides additional information about a given subject matter
 
-.. image:: ./images/image4.png
-    :width: 300px
-    :align: center
-    :height: 500px
-    :alt: alternate text
 
 
 2. GETTING STARTED
