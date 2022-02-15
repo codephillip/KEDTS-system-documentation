@@ -320,7 +320,7 @@ Move your cursor and click each tab on the side menu bar to view the correspondi
    .. image:: ./assets/healthUserGuideImages/image48.png
        :width: 1000px
        :align: center
-       :height: 100px
+       :height: 400px
        :alt: alternate text
 
 
