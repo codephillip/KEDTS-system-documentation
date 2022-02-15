@@ -264,9 +264,9 @@ This will allow you to logout of the system.
 - Click **LOGOUT**
 
    .. image:: ./assets/healthUserGuideImages/image44.png
-       :width: 800px
+       :width: 1000px
        :align: center
-       :height: 500px
+       :height: 100px
        :alt: alternate text
 
 3. EXPLORE SYSTEM FEATURES
