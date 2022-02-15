@@ -418,60 +418,60 @@ The following statuses will appear on the right of each request and update accor
 |Facility referred|When a receiving facility has been attached to a request at the|
 |                 |call center, the status label will be **facility referred**    |
 |                 |with an action button to view                                  | 
-|                 | .. image:: ./images/image31.png                               |
-|                 |      :width: 300px                                            |
-|                 |      :align: center                                           |
-|                 |      :height: 500px                                           |
-|                 |      :alt: alternate text                                     |
+|                 |.. image:: ./assets/healthUserGuideImages/image52.png          |
+|                 |    :width: 1500px                                             |
+|                 |    :align: center                                             |
+|                 |    :height: 100px                                             |
+|                 |    :alt: alternate text                                       |
 |                 |                                                               |
 +-----------------+---------------------------------------------------------------+
 |Ambulance        |When an ambulance has been assigned and dispatched, the status |
 |dispatched       |label will be **ambulance dispatched** with an action button to| 
 |                 |**Track Ambulance**                                            |
-|                 | .. image:: ./images/image31.png                               |
-|                 |      :width: 300px                                            |
-|                 |      :align: center                                           |
-|                 |      :height: 500px                                           |
-|                 |      :alt: alternate text                                     |
+|                 |.. image:: ./assets/healthUserGuideImages/image52.png          |
+|                 |    :width: 1500px                                             |
+|                 |    :align: center                                             |
+|                 |    :height: 100px                                             |
+|                 |    :alt: alternate text                                       |
 |                 |                                                               |
 +-----------------+---------------------------------------------------------------+ 
 |Ambulance to     |When the ambulance driver is on route to pick up patient, the  |
 |scene            |status label will be ambulance to scene with an action button  | 
 |                 |to **Track Ambulance**                                         |
-|                 | .. image:: ./images/image31.png                               |
-|                 |      :width: 300px                                            |
-|                 |      :align: center                                           |
-|                 |      :height: 500px                                           |
-|                 |      :alt: alternate text                                     |
+|                 |.. image:: ./assets/healthUserGuideImages/image52.png          |
+|                 |    :width: 1500px                                             |
+|                 |    :align: center                                             |
+|                 |    :height: 100px                                             |
+|                 |    :alt: alternate text                                       |
 |                 |                                                               |
 +-----------------+---------------------------------------------------------------+  
 |Patient picked up|When the ambulance has picked up the patient, the status label |
 |                 |will be patient picked up with an action button to **Track**   | 
 |                 |**Ambulance**                                                  |
-|                 | .. image:: ./images/image31.png                               |
-|                 |      :width: 300px                                            |
-|                 |      :align: center                                           |
-|                 |      :height: 500px                                           |
-|                 |      :alt: alternate text                                     |
+|                 |.. image:: ./assets/healthUserGuideImages/image52.png          |
+|                 |    :width: 1500px                                             |
+|                 |    :align: center                                             |
+|                 |    :height: 100px                                             |
+|                 |    :alt: alternate text                                       |
 |                 |                                                               |
 +-----------------+---------------------------------------------------------------+   
 |Patient dropped  |When the ambulance has dropped off patient at the receiving    |
 |off              |facility, the status label will be patient dropped off with an |
 |                 |action button to **View**                                      | 
-|                 | .. image:: ./images/image31.png                               |
-|                 |      :width: 300px                                            |
-|                 |      :align: center                                           |
-|                 |      :height: 500px                                           |
-|                 |      :alt: alternate text                                     |
+|                 |.. image:: ./assets/healthUserGuideImages/image52.png          |
+|                 |    :width: 1500px                                             |
+|                 |    :align: center                                             |
+|                 |    :height: 100px                                             |
+|                 |    :alt: alternate text                                       |
 |                 |                                                               |
 +-----------------+---------------------------------------------------------------+  
 |Patient received |When the receiving facility confirms drop off of patient, the  |
 |                 |status label will be patient received                          |
-|                 | .. image:: ./images/image31.png                               |
-|                 |      :width: 300px                                            |
-|                 |      :align: center                                           |
-|                 |      :height: 500px                                           |
-|                 |      :alt: alternate text                                     |
+|                 |.. image:: ./assets/healthUserGuideImages/image52.png          |
+|                 |    :width: 1500px                                             |
+|                 |    :align: center                                             |
+|                 |    :height: 100px                                             |
+|                 |    :alt: alternate text                                       |
 |                 |                                                               |
 +-----------------+---------------------------------------------------------------+  
 
