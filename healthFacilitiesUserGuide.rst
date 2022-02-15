@@ -232,9 +232,9 @@ This will allow you to change your password.
 - Click **CHANGE PASSWORD** in the drop down list.
 
    .. image:: ./assets/healthUserGuideImages/image44.png
-       :width: 800px
+       :width: 1000px
        :align: center
-       :height: 500px
+       :height: 100px
        :alt: alternate text
 
 - After clicking **CHANGE PASSWORD**, a pop up will appear as seen in the image below.
