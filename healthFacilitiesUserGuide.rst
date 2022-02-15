@@ -224,7 +224,7 @@ This will allow you to change your password.
 - Click  this V arrow next to your name on the right upper corner of your screen. 
 
    .. image:: ./assets/healthUserGuideImages/image42.png
-       :width: 800px
+       :width: 1000px
        :align: center
        :height: 500px
        :alt: alternate text
