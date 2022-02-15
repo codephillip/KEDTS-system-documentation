@@ -189,19 +189,19 @@ This document contains the following typographic conventions which will assist y
 #. You should see a notification that reads “Your Account was created successfully”
 
 
-.. image:: ./assets/appUserGuideImages/image24.png
+.. image:: ./assets/appUserGuideImages/image24.jpg
     :width: 300px
     :align: center
     :height: 500px
     :alt: alternate text
 
-.. image:: ./assets/appUserGuideImages/image23.png
+.. image:: ./assets/appUserGuideImages/image23.jpg
     :width: 300px
     :align: center
     :height: 500px
     :alt: alternate text
 
-.. image:: ./assets/appUserGuideImages/image26.png
+.. image:: ./assets/appUserGuideImages/image26.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -223,19 +223,19 @@ This document contains the following typographic conventions which will assist y
 
 #. You should see a “Login successful ”notification.
 
-.. image:: ./assets/appUserGuideImages/image25.png
+.. image:: ./assets/appUserGuideImages/image25.jpg
     :width: 300px
     :align: center
     :height: 500px
     :alt: alternate text
 
-.. image:: ./assets/appUserGuideImages/image28.png
+.. image:: ./assets/appUserGuideImages/image28.jpg
     :width: 300px
     :align: center
     :height: 500px
     :alt: alternate text
 
-.. image:: ./assets/appUserGuideImages/image27.png
+.. image:: ./assets/appUserGuideImages/image27.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -254,19 +254,19 @@ This will allow you to logout of the application.
 
 #. Click LOGOUT to logout.
 
-.. image:: ./assets/appUserGuideImages/image31.png
+.. image:: ./assets/appUserGuideImages/image31.jpg
     :width: 300px
     :align: center
     :height: 500px
     :alt: alternate text
 
-.. image:: ./assets/appUserGuideImages/image29.png
+.. image:: ./assets/appUserGuideImages/image29.jpg
     :width: 300px
     :align: center
     :height: 500px
     :alt: alternate text
 
-.. image:: ./assets/appUserGuideImages/image30.png
+.. image:: ./assets/appUserGuideImages/image30.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -283,7 +283,7 @@ Once you have signed in successfully, you will be able to view a menu. The menu 
 
 The Home page is displayed by default. This page has a map showing your current location, has two tabs that allow you to change the view of the ambulances and the **REQUEST AMBULANCE** button.
 
-.. image:: ./assets/appUserGuideImages/image31.png
+.. image:: ./assets/appUserGuideImages/image31.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -299,7 +299,7 @@ The History page displays past events of your requests that are organised under 
 
 #.Cancelled: This shows a list of requests that have been cancelled.
 
-.. image:: ./assets/appUserGuideImages/image33.png
+.. image:: ./assets/appUserGuideImages/image33.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -309,7 +309,7 @@ The History page displays past events of your requests that are organised under 
 ++++++++++++++++++++++
 The Account page allows you to view your personal details, log out and view information about the MaNe project.
 
-.. image:: ./assets/appUserGuideImages/image29.png
+.. image:: ./assets/appUserGuideImages/image29.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -319,7 +319,7 @@ The Account page allows you to view your personal details, log out and view info
 +++++++++++++++++++++++++++++++
 This allows you to view and edit your personal details in the application.
 
-.. image:: ./assets/appUserGuideImages/image34.png
+.. image:: ./assets/appUserGuideImages/image34.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -329,7 +329,7 @@ This allows you to view and edit your personal details in the application.
 ++++++++++++++++++++++++
 This displays information about the Project.
 
-.. image:: ./assets/appUserGuideImages/image35.png
+.. image:: ./assets/appUserGuideImages/image35.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -356,13 +356,13 @@ Refer to section **2.3** above.
 #. If you do not wish to fill in the medical profile then Scroll down and click **SKIP 
    FOR NOW**.
 
-.. image:: ./assets/appUserGuideImages/image36.png
+.. image:: ./assets/appUserGuideImages/image36.jpg
     :width: 300px
     :align: center
     :height: 500px
     :alt: alternate text
 
-.. image:: ./assets/appUserGuideImages/image37.png
+.. image:: ./assets/appUserGuideImages/image37.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -384,7 +384,7 @@ This is the default view of the ambulances in the application.
 
 #. Select a given ambulance to view more details about it. 
 
-.. image:: ./assets/appUserGuideImages/image31.png
+.. image:: ./assets/appUserGuideImages/image31.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -402,7 +402,7 @@ To view ambulances using the List view,
 
 #. Select a given ambulance in order to view more details about it.
 
-.. image:: ./assets/appUserGuideImages/image11.png
+.. image:: ./assets/appUserGuideImages/image11.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -427,19 +427,19 @@ To view ambulances using the List view,
 #. Clicking any of the Emergency categories will display a pop up message saying 
    “Emergency updated” This updates your diagnosis at the call centre in real time.
 
-.. image:: ./assets/appUserGuideImages/image12.png
+.. image:: ./assets/appUserGuideImages/image12.jpg
     :width: 300px
     :align: center
     :height: 500px
     :alt: alternate text
 
-.. image:: ./assets/appUserGuideImages/image13.png
+.. image:: ./assets/appUserGuideImages/image13.jpg
     :width: 300px
     :align: center
     :height: 500px
     :alt: alternate text
 
-.. image:: ./assets/appUserGuideImages/image14.png
+.. image:: ./assets/appUserGuideImages/image14.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -459,19 +459,19 @@ To view ambulances using the List view,
 
 #. Click the **CANCEL REQUEST** button.
 
-.. image:: ./assets/appUserGuideImages/image15.png
+.. image:: ./assets/appUserGuideImages/image15.jpg
     :width: 300px
     :align: center
     :height: 500px
     :alt: alternate text
 
-.. image:: ./assets/appUserGuideImages/image16.png
+.. image:: ./assets/appUserGuideImages/image16.jpg
     :width: 300px
     :align: center
     :height: 500px
     :alt: alternate text
 
-.. image:: ./assets/appUserGuideImages/image17.png
+.. image:: ./assets/appUserGuideImages/image17.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -486,7 +486,7 @@ To view ambulances using the List view,
 | A page with different categories of Your Request Details will be displayed as shown 
   below 
 
-.. image:: ./assets/appUserGuideImages/image4.png
+.. image:: ./assets/appUserGuideImages/image4.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -496,7 +496,7 @@ To view ambulances using the List view,
 ++++++++++++++++++++++++++++++++++++++++++
 This shows the different timelines of the ambulance from the time the request was made up to when the patient is received at the facility.
 
-.. image:: ./assets/appUserGuideImages/image18.png
+.. image:: ./assets/appUserGuideImages/image18.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -506,7 +506,7 @@ This shows the different timelines of the ambulance from the time the request wa
 ++++++++++++++++++++++++++++++++++++++
 This shows details about the patient such as the name, age, gender and phone number.
 
-.. image:: ./assets/appUserGuideImages/image19.png
+.. image:: ./assets/appUserGuideImages/image19.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -516,7 +516,7 @@ This shows details about the patient such as the name, age, gender and phone num
 ++++++++++++++++++++++++++++++++++++++
 This shows the details of the emergency including the emergency diagnosis that is being handled. E.g, Covid 19
 
-.. image:: ./assets/appUserGuideImages/image1.png
+.. image:: ./assets/appUserGuideImages/image1.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -526,7 +526,7 @@ This shows the details of the emergency including the emergency diagnosis that i
 ++++++++++++++++++++++++++++++++++++++
 This shows the details of the facility that is going to receive the patient being handled in the emergency including the Facility Name, Facility Number, Location and the Clinician incharge.
 
-.. image:: ./assets/appUserGuideImages/image2.png
+.. image:: ./assets/appUserGuideImages/image2.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -536,7 +536,7 @@ This shows the details of the facility that is going to receive the patient bein
 ++++++++++++++++++++++++++++++++
 This contains the details of the ambulance that has handled the emergency.
 
-.. image:: ./assets/appUserGuideImages/image3.png
+.. image:: ./assets/appUserGuideImages/image3.jpg
     :width: 300px
     :align: center
     :height: 500px
@@ -557,19 +557,19 @@ This contains the details of the ambulance that has handled the emergency.
 
 #. Click the **SUBMIT** button.
 
-.. image:: ./assets/appUserGuideImages/image4.png
+.. image:: ./assets/appUserGuideImages/image4.jpg
     :width: 300px
     :align: center
     :height: 500px
     :alt: alternate text
 
-.. image:: ./assets/appUserGuideImages/image5.png
+.. image:: ./assets/appUserGuideImages/image5.jpg
     :width: 300px
     :align: center
     :height: 500px
     :alt: alternate text
 
-.. image:: ./assets/appUserGuideImages/image6.png
+.. image:: ./assets/appUserGuideImages/image6.jpg
     :width: 300px
     :align: center
     :height: 500px
