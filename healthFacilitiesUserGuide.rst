@@ -409,7 +409,7 @@ The following statuses will appear on the right of each request and update accor
 | New request     | When you have sent or received a new request, the status label|
 |                 | will be New request with an action button to **View**         |
 |                 |.. image:: ./assets/healthUserGuideImages/image52.png          |
-|                 |    :width: 1200px                                             |
+|                 |    :width: 1500px                                             |
 |                 |    :align: center                                             |
 |                 |    :height: 100px                                             |
 |                 |    :alt: alternate text                                       |
