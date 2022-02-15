@@ -226,7 +226,7 @@ This will allow you to change your password.
    .. image:: ./assets/healthUserGuideImages/image42.png
        :width: 1000px
        :align: center
-       :height: 500px
+       :height: 50px
        :alt: alternate text
 
 - Click **CHANGE PASSWORD** in the drop down list.
