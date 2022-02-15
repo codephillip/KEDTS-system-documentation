@@ -182,9 +182,13 @@ To use the system, you will need to SIGN IN using an email address and password 
 
 - Click **SIGN IN**
 
+.. image:: ./assets/healthUserGuideImages/image40.png
+    :width: 300px
+    :align: center
+    :height: 500px
+    :alt: alternate text
 
-
-.. image:: ./images/image4.png
+.. image:: ./assets/healthUserGuideImages/image28.png
     :width: 300px
     :align: center
     :height: 500px
@@ -199,7 +203,13 @@ To use the system, you will need to **SIGN IN**  using an email address and pass
 
 - Click **SIGN IN**
 
-.. image:: ./images/image4.png
+.. image:: ./assets/healthUserGuideImages/image40.png
+    :width: 300px
+    :align: center
+    :height: 500px
+    :alt: alternate text
+
+.. image:: ./assets/healthUserGuideImages/image28.png
     :width: 300px
     :align: center
     :height: 500px
@@ -213,7 +223,7 @@ This will allow you to change your password.
 
 - Click  this V arrow next to your name on the right upper corner of your screen. 
 
-   .. image:: ./images/image31.png
+   .. image:: ./assets/healthUserGuideImages/image42.png
        :width: 300px
        :align: center
        :height: 500px
@@ -221,7 +231,7 @@ This will allow you to change your password.
 
 - Click **CHANGE PASSWORD** in the drop down list.
 
-   .. image:: ./images/image31.png
+   .. image:: ./assets/healthUserGuideImages/image44.png
        :width: 300px
        :align: center
        :height: 500px
@@ -229,7 +239,7 @@ This will allow you to change your password.
 
 - After clicking **CHANGE PASSWORD**, a pop up will appear as seen in the image below.
 
-   .. image:: ./images/image31.png
+   .. image:: ./assets/healthUserGuideImages/image43.png
        :width: 300px
        :align: center
        :height: 500px
@@ -245,7 +255,7 @@ This will allow you to logout of the system.
 
 - Click this V arrow next to your name on the right upper corner of your screen. 
 
-   .. image:: ./images/image31.png
+   .. image:: ./assets/healthUserGuideImages/image42.png
        :width: 300px
        :align: center
        :height: 500px
@@ -253,7 +263,7 @@ This will allow you to logout of the system.
 
 - Click **LOGOUT**
 
-   .. image:: ./images/image31.png
+   .. image:: ./assets/healthUserGuideImages/image44.png
        :width: 300px
        :align: center
        :height: 500px
@@ -265,11 +275,12 @@ This will allow you to logout of the system.
 ############################################################
 This is an interface on the left hand side of the screen that displays a list of the system tabs namely: Referrals, Facilities, Staff, Patients,Reports. If you are signed in as an administrator, you will view an additional settings tab in your sidebar menu.
 
-.. image:: ./images/image31.png
-    :width: 300px
-    :align: center
-    :height: 500px
-    :alt: alternate text
+.. image:: ./assets/healthUserGuideImages/image47.png
+       :width: 600px
+       :align: center
+       :height: 500px
+       :alt: alternate text
+      
 
 Move your cursor and click each tab on the side menu bar to view the corresponding contents of each tab. Once you have clicked the respective tab, it will be highlighted in red. 
 
@@ -280,7 +291,7 @@ Move your cursor and click each tab on the side menu bar to view the correspondi
   referring facility name and contact, receiving facility name and contact, status of 
   requests and corresponding action buttons for each request.
 
-   .. image:: ./images/image31.png
+   .. image:: ./assets/healthUserGuideImages/image45.png
        :width: 300px
        :align: center
        :height: 500px
@@ -294,7 +305,7 @@ Move your cursor and click each tab on the side menu bar to view the correspondi
   the facility, facility address, clinician in charge, operating hours. Click view to 
   see additional details for each facility. 
 
-   .. image:: ./images/image31.png
+   .. image:: ./assets/healthUserGuideImages/image46.png
        :width: 300px
        :align: center
        :height: 500px
@@ -306,7 +317,7 @@ Move your cursor and click each tab on the side menu bar to view the correspondi
   will see the name of the staff individual, their contact,cadre and indication to show 
   if the staff worker is a specialist or not. 
 
-   .. image:: ./images/image31.png
+   .. image:: ./assets/healthUserGuideImages/image48.png
        :width: 300px
        :align: center
        :height: 500px
@@ -320,7 +331,7 @@ Move your cursor and click each tab on the side menu bar to view the correspondi
   Parish, Village,where patient was registered.Click view to see additional details for 
   each patient. 
 
-   .. image:: ./images/image31.png
+   .. image:: ./assets/healthUserGuideImages/image49.png
        :width: 300px
        :align: center
        :height: 500px
@@ -332,7 +343,7 @@ Move your cursor and click each tab on the side menu bar to view the correspondi
   facility administrators to add users,services and staff at the health facility. This 
   tab also enables the administrator to add, edit and update existing user information.
 
-   .. image:: ./images/image31.png
+   .. image:: ./assets/healthUserGuideImages/image50.png
        :width: 300px
        :align: center
        :height: 500px
@@ -352,20 +363,20 @@ Move your cursor and click each tab on the side menu bar to view the correspondi
 
 Incoming Referrals under the Referrals tab can be quickly be identified by this blue downward facing arrow 
 
-   .. image:: ./images/image31.png
-       :width: 300px
+   .. image:: ./assets/healthUserGuideImages/image4.png
+       :width: 30px
        :align: center
-       :height: 500px
+       :height: 50px
        :alt: alternate text
 
 | **Outgoing Referral**
 
 Outgoing Referrals under the Referrals tab can be quickly be identified by this grey upward facing arrow
 
-   .. image:: ./images/image31.png
-       :width: 300px
+   .. image:: ./assets/healthUserGuideImages/image51.png
+       :width: 30px
        :align: center
-       :height: 500px
+       :height: 50px
        :alt: alternate text
 
 
