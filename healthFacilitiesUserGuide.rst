@@ -276,7 +276,7 @@ This will allow you to logout of the system.
 This is an interface on the left hand side of the screen that displays a list of the system tabs namely: Referrals, Facilities, Staff, Patients,Reports. If you are signed in as an administrator, you will view an additional settings tab in your sidebar menu.
 
 .. image:: ./assets/healthUserGuideImages/image47.png
-       :width: 800px
+       :width: 1000px
        :align: center
        :height: 500px
        :alt: alternate text
@@ -292,7 +292,7 @@ Move your cursor and click each tab on the side menu bar to view the correspondi
   requests and corresponding action buttons for each request.
 
    .. image:: ./assets/healthUserGuideImages/image45.png
-       :width: 800px
+       :width: 1000px
        :align: center
        :height: 500px
        :alt: alternate text
@@ -306,7 +306,7 @@ Move your cursor and click each tab on the side menu bar to view the correspondi
   see additional details for each facility. 
 
    .. image:: ./assets/healthUserGuideImages/image46.png
-       :width: 800px
+       :width: 1000px
        :align: center
        :height: 500px
        :alt: alternate text
@@ -318,7 +318,7 @@ Move your cursor and click each tab on the side menu bar to view the correspondi
   if the staff worker is a specialist or not. 
 
    .. image:: ./assets/healthUserGuideImages/image48.png
-       :width: 800px
+       :width: 1000px
        :align: center
        :height: 500px
        :alt: alternate text
@@ -332,7 +332,7 @@ Move your cursor and click each tab on the side menu bar to view the correspondi
   each patient. 
 
    .. image:: ./assets/healthUserGuideImages/image49.png
-       :width: 800px
+       :width: 1000px
        :align: center
        :height: 500px
        :alt: alternate text
@@ -344,7 +344,7 @@ Move your cursor and click each tab on the side menu bar to view the correspondi
   tab also enables the administrator to add, edit and update existing user information.
 
    .. image:: ./assets/healthUserGuideImages/image50.png
-       :width: 800px
+       :width: 1000px
        :align: center
        :height: 500px
        :alt: alternate text
